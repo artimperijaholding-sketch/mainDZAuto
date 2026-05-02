@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup Label="ProjectConfigurations">
     <ProjectConfiguration Include="Debug|Win32">
@@ -130,14 +130,12 @@
     <ClCompile Include="Auto.cpp" />
     <ClCompile Include="Book.cpp" />
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="Talking_book.cpp" />
     <ClCompile Include="Truck.cpp" />
     <ClCompile Include="Voice_recoding.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Auto.h" />
     <ClInclude Include="Book.h" />
-    <ClInclude Include="Talking_book.h" />
     <ClInclude Include="Truck.h" />
     <ClInclude Include="Voice_recoding.h" />
   </ItemGroup>
